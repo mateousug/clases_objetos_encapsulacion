@@ -8,4 +8,14 @@ El diseño de clases es como crear los "planos" de los objetos que vas a usar en
 ¿que es la encapsulacion?
 La encapsulación es como poner tus datos importantes en una "caja fuerte" y solo permitir el acceso de forma controlada. Es proteger la información interna de un objeto.
 
-Para ejecutar el codigo, las instrucciones son meter entre comillas triples
+Para ejecutar el codigo en el caso de los laboratorios, las instrucciones son meter entre comillas triples y ejecutar usando el comando "python nombre del archivo.py"
+
+![alt text](img/ClaseObjeto.png)
+
+![](img/ClaseObjeto2.png)
+
+En el caso de el proyecto integrador, o de los dos talleres, solo es usar el mismo comando si necesidad de usar comillas triples.
+
+![alt text](img/tallerClaseObjeto.png)
+
+Como pequeña reflexion, el diseño de clases y la encapsulacion son conceptos importantes en el manejo de datos usando python, y tambien si es que se necesita trabajar con objetos, ya que funcionan para agrupar datos en una categoria en el cual la podriamos necesitar mas adelante.
